@@ -1,0 +1,67 @@
+{
+  "users" : [
+      {
+        "id":"1",
+        "name": "Homer Simpson",
+        "location": "Springfield",
+        "age":"45", 
+        "date_of_birth": "1956-05-12"
+      }, 
+
+        {
+        "id": "2",
+        "name": "Frank Reynolds",
+        "location": "Philidelphia", 
+        "age":"50",
+        "date_of_birth": "1944-11-17"},
+
+        {
+        "id": "3", 
+        "name": "Krusty the Clown",
+        "location": "Springfield",
+        "age":"40",
+        "date_of_birth": "1957-10-29"
+      },
+
+        {
+        "id": "4",  
+        "name": "Lisa Simpson",
+        "location": "Springfield",
+        "age":"17",
+        "date_of_birth": "1998-10-29"
+       },
+
+        {
+          "id": "5",
+          "name": "Bart Simpson",
+          "location": "Washington",
+          "age":"16",
+          "date_of_birth": "1996-10-29"
+    }
+  ],
+
+  "companies":[
+    {
+      "id": "1",
+      "name": "DXC",
+      "description": "DXC Technology is an American multinational corporation that provides B2B IT services."
+    },
+    {
+      "id": "2",
+      "name": "FT",
+      "description": "We design and engineer the businesses of tomorrow"
+    },
+
+    {
+      "id": "3",
+      "name": "Contact",
+      "description": "DXC Technology is an American multinational corporation that provides B2B IT services."
+    },
+
+    {
+      "id": "4",
+      "name": "Apolitical",
+      "description": "Apolitical equips public servants to do their jobs - through free access"
+    }
+  ]
+}
