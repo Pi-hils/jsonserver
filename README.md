@@ -37,7 +37,7 @@ sudo chown -R `whoami` /usr/local/lib/node_modules
 >http://localhost:3000/users
 
 ## FILTER COMPANY BY NAME
->http://localhost:3000/companies?name=Contact
+>http://localhost:3000/companies?name=Contact\
 >http://localhost:3000/companies?name=Contact&name=DXC
 
 ## PAGINATION & LIMIT
@@ -48,8 +48,8 @@ sudo chown -R `whoami` /usr/local/lib/node_modules
 (can also have desc)
 
 ## USERS AGE RANGE(NUMBERICAL)
->http://localhost:3000/user?age_gte=17  
-(get= greater than or equal)
+>http://localhost:3000/user?age_gte=17\
+(get= greater than or equal)\
 >http://localhost:3000/user?age_gte=30&age_lte=50
 
 ## FULL SEARCH
